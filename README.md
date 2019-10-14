@@ -21,7 +21,7 @@ var result = checkbech32('wrongabcdef1qpzry9x8gf2tvdw0s3jnkhce6muawrong')
 
 
 ## Credits
-- [bitcoinjs contributors](https://github.com/bitcoinjs) https://github.com/bitcoinjs/bech32
+- [bitcoinjs contributors](https://github.com/bitcoinjs) for the Bech32 encoding/decoding [library](https://github.com/bitcoinjs/bech32)
 - [Peter Wuille](https://github.com/sipa/bech32) for the reference JavaScript implementation, and for authoring the Bech32 [BIP173](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki).
 
 
